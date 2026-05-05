@@ -6,13 +6,9 @@ I’m currently working on strengthening my skills in DevOps and cloud based tec
 
 Tech Stack
 Languages: Python
-
 DevOps Tools: Docker
-
 Kubernetes
-
 CI/CD
-
 Cloud: AWS
 
 What I'm Learning:
