@@ -5,8 +5,14 @@ I'm Shujah and I’m passionate about understanding how modern systems are built
 I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
 Tech Stack
-Languages: Python,
-DevOps Tools: Docker, Kubernetes, CI/CD
+Languages: Python
+
+DevOps Tools: Docker
+
+Kubernetes
+
+CI/CD
+
 Cloud: AWS
 
 What I'm Learning:
