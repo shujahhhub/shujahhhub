@@ -31,9 +31,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <br>
-
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
-
 </div>
 
 
