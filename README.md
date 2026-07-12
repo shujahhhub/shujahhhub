@@ -21,9 +21,6 @@
 
 I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work — building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
-<!-- NEON RAINBOW LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
 ### Connect with me:
@@ -33,9 +30,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
-
-<!-- NEON RAINBOW LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal & Tools
 
@@ -96,9 +90,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 </div>
 
-<!-- NEON RAINBOW LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 💼 Experience
 
 <div align="left">
@@ -110,8 +101,6 @@ I'm currently interning as a Junior Developer in the Software Development team a
 
 </div>
 
-<!-- NEON RAINBOW LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 CONTRIBUTION SNAKE - WATCH IT DEVOUR MY COMMITS!
 <div align="center">
@@ -121,6 +110,3 @@ I'm currently interning as a Junior Developer in the Software Development team a
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-<!-- NEON RAINBOW LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
