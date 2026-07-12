@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shujah</h1>
-<h3 align="center">A passionate DevOps & Cloud Engineer from Pakistan</h3>
+<h3 align="center">A passionate DevOps & Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujahhhub&label=Profile%20views&color=0e75b6&style=flat" alt="shujahhhub" /> </p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="devops workspace animation" width="400" align="right" />
+</p>
+
+<br clear="both"/>
 
 - 🔭 I'm currently working on strengthening my skills in **DevOps and Cloud based technologies**
 
@@ -15,13 +21,7 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands-on lab points**
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="devops workspace animation" width="400" align="right" />
-</p>
-
 I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work — building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
-
-<br clear="right"/>
 
 <div align="center">
 
@@ -91,4 +91,5 @@ I’m passionate about understanding how modern systems are built, deployed, and
 </table>
 
 </div>
+
 
