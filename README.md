@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1520,60:1a3a6b,100:0d1520&height=130&section=header&text=let's%20build%20something%20great&fontSize=20&fontColor=7a9bbf&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Shujah</h1>
 <h3 align="center">A passionate DevOps & Cloud Engineer</h3>
 
@@ -28,13 +24,13 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 <div align="center">
 
-### Let's Connect
+### Let's Connect:
 
 <a href="https://github.com/shujahhhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shujah-rehman-439377270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
 
@@ -108,7 +104,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 **Junior Developer (Intern)** — ZMDM IT Solutions
 *July 2026 – August 2026*
 
-I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well-documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
+I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
 
 </div>
 
@@ -122,6 +118,17 @@ I'm currently interning as a Junior Developer in the Software Development team a
 </picture>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/footer-banner.svg" alt="thanks for visiting" width="700"/>
-</p>
+<div align="center">
+
+```bash
+Thanks for visiting!
+
+```
+
+*Shujah Ur Rehman · Lahore, Pakistan · DevOps & Cloud Engineer*
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1520,60:1a3a6b,100:0d1520&height=130&section=footer&text=let%27s%20build%20something%20great&fontSize=14&fontColor=7a9bbf&fontAlignY=65" width="100%"/>
+</div>
