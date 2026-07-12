@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands-on lab points**
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/devops-workspace.gif" alt="devops workspace animation" width="400" align="right" />
+  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="devops workspace animation" width="400" align="right" />
 </p>
 
 I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work — building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
@@ -25,25 +25,52 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 ### Connect with me:
 <p align="left">
-<a href="https://github.com/shujahhhub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="30" /></a>
-<a href="mailto:rehmanshujah57@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="30" /></a>
+<a href="https://github.com/shujahhhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shujah-rehman-439377270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-### Languages and Tools:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
+## 🛠️ Tech Arsenal & Tools
+
+### ⚡ Programming Languages
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br><sub><b>C++</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL"/><br><sub><b>SQL</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/><br><sub><b>Bash</b></sub></td>
+</tr>
+</table>
+
+### 🎨 Web Fundamentals
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br><sub><b>CSS3</b></sub></td>
+</tr>
+</table>
+
+### ☁️ Cloud & DevOps
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/><br><sub><b>AWS</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/><br><sub><b>Kubernetes</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/><br><sub><b>Terraform</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/><br><sub><b>GitHub Actions</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br><sub><b>Linux</b></sub></td>
+</tr>
+</table>
+
+### 🔧 Tools & Platforms
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="background-color:white;border-radius:8px;"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ntopng.png" width="48" height="48" alt="ntopng"/><br><sub><b>ntopng</b></sub></td>
+</tr>
+</table>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shujahhhub&show_icons=true&locale=en&layout=compact" alt="shujahhhub" /></p>
 
