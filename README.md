@@ -24,14 +24,14 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 <div align="center">
 
-### Let's Connect:
+### Let's Connect
 
 <a href="https://github.com/shujahhhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shujah-rehman-439377270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-<br>
+<br/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+
 </div>
 
 
@@ -117,6 +117,7 @@ I'm currently interning as a Junior Developer in the Software Development team a
 </div>
 
 <div align="center">
+
 <br></br>
 *Shujah Ur Rehman · Lahore, Pakistan · DevOps & Cloud Engineer*
 
