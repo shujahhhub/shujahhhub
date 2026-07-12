@@ -119,12 +119,7 @@ I'm currently interning as a Junior Developer in the Software Development team a
 </div>
 
 <div align="center">
-
-```bash
-Thanks for visiting!
-
-```
-
+<br></br>
 *Shujah Ur Rehman · Lahore, Pakistan · DevOps & Cloud Engineer*
 
 </div>
