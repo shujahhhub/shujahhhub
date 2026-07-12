@@ -120,7 +120,7 @@ I'm currently interning as a Junior Developer in the Software Development team a
 
 <div align="center">
 
-<br><br></br></br>
+<br></br>
 *Shujah Ur Rehman · Lahore, Pakistan · DevOps & Cloud Engineer*
 
 </div>
