@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on strengthening my skills in **DevOps and Cloud based technologies**
 
-- 🌱 I'm currently learning **Kubernetes, Terraform, and DevOps Pipelines**
+- 🌱 I'm currently learning **Kubernetes, Terraform, and Cloud Security Operations (SIEM/SOAR)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shujahhhub](https://github.com/shujahhhub)
 
@@ -19,7 +19,10 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands-on lab points**
 
-I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work, building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work — building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
+
+<!-- NEON RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -30,6 +33,9 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <a href="mailto:rehmanshujah57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
+
+<!-- NEON RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal & Tools
 
@@ -90,6 +96,9 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 </div>
 
+<!-- NEON RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 💼 Experience
 
 <div align="left">
@@ -97,10 +106,12 @@ I’m passionate about understanding how modern systems are built, deployed, and
 **Junior Developer (Intern)** — ZMDM IT Solutions
 *July 2026 – August 2026*
 
-I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
+I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well-documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
 
 </div>
 
+<!-- NEON RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 CONTRIBUTION SNAKE - WATCH IT DEVOUR MY COMMITS!
 <div align="center">
@@ -110,3 +121,6 @@ I'm currently interning as a Junior Developer in the Software Development team a
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<!-- NEON RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
