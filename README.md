@@ -72,6 +72,3 @@ I’m passionate about understanding how modern systems are built, deployed, and
 </tr>
 </table>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shujahhhub&show_icons=true&locale=en&layout=compact" alt="shujahhhub" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shujahhhub&show_icons=true&locale=en" alt="shujahhhub" /></p>
