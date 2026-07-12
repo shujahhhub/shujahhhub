@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on strengthening my skills in **DevOps and Cloud based technologies**
 
-- 🌱 I'm currently learning **Kubernetes, Terraform, and Cloud Security Operations (SIEM/SOAR)**
+- 🌱 I'm currently learning **Kubernetes, Terraform, and DevOps Pipelines**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shujahhhub](https://github.com/shujahhhub)
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands-on lab points**
 
-I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work — building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I’m passionate about understanding how modern systems are built, deployed, and scaled. I focus on learning through practical work, building projects, experimenting with tools, and improving step by step. I’m currently working on strengthening my skills in DevOps and cloud based technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
 <div align="center">
 
@@ -87,6 +87,17 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ntopng.png" width="48" height="48" alt="ntopng"/><br><sub><b>ntopng</b></sub></td>
 </tr>
 </table>
+
+</div>
+
+## 💼 Experience
+
+<div align="left">
+
+**Junior Developer (Intern)** — ZMDM IT Solutions
+*July 2026 – August 2026*
+
+I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
 
 </div>
 
