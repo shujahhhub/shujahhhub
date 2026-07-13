@@ -108,10 +108,10 @@ I'm currently interning as a Junior Developer in the Software Development team a
 
 </div>
 
-## 🔥 GitHub Streak 🔥
+## 🔥 GitHub Stats 🔥
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shujahhhub&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/dist/live-stats.svg?refresh=1" alt="GitHub Streak" />
 </p>
 
 
