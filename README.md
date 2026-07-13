@@ -114,6 +114,9 @@ I'm currently interning as a Junior Developer in the Software Development team a
   <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/dist/live-stats.svg?refresh=1" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shujahhhub&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
 ## 🐍 CONTRIBUTION SNAKE - WATCH IT DEVOUR MY COMMITS!
 <div align="center">
