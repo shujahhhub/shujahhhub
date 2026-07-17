@@ -39,7 +39,7 @@
   <text x="24" y="46" font-family="'Courier New', monospace" font-size="13" fill="#00ff41" filter="url(#crtGlow)">root@shujahhhub:~$ ./fetch_stats.sh --live</text>
   <line x1="24" y1="56" x2="676" y2="56" stroke="#00ff41" stroke-opacity="0.25" stroke-width="1"/>
 
-  <text x="175" y="106" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#00ff41" filter="url(#crtGlow)">198</text>
+  <text x="175" y="106" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#00ff41" filter="url(#crtGlow)">200</text>
   <text x="175" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#00ff41" opacity="0.85">&gt; total_contributions</text>
   <text x="175" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="10.5" fill="#00cc66" opacity="0.7"># Nov 22, 2025 - Present</text>
 
@@ -50,9 +50,9 @@
   <text x="350" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#00ff41" opacity="0.85">&gt; current_streak</text>
   <text x="350" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="10.5" fill="#00cc66" opacity="0.7"># Jul 10, 2026 - Jul 17, 2026</text>
 
-  <text x="525" y="106" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#00ff41" filter="url(#crtGlow)">8</text>
+  <text x="525" y="106" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#00ff41" filter="url(#crtGlow)">9</text>
   <text x="525" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#00ff41" opacity="0.85">&gt; longest_streak</text>
-  <text x="525" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="10.5" fill="#00cc66" opacity="0.7"># Nov 22, 2025 - Nov 29, 2025</text>
+  <text x="525" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="10.5" fill="#00cc66" opacity="0.7"># Jul 10, 2026 - Jul 18, 2026</text>
 
   <line x1="24" y1="168" x2="676" y2="168" stroke="#00ff41" stroke-opacity="0.25" stroke-width="1"/>
   <text x="24" y="192" font-family="'Courier New', monospace" font-size="12" fill="#00ff41" filter="url(#crtGlow)">root@shujahhhub:~$ <tspan class="cursor">█</tspan></text>
