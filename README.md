@@ -114,6 +114,15 @@ I'm currently interning as a Junior Developer in the Software Development team a
 </picture>
 </div>
 
+## 🚀 SPACE SHOOTER - BLASTING MY CONTRIBUTION GRID!
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shujahhhub/shujahhhub/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shujahhhub/shujahhhub/output/commit-invaders.svg">
+  <img alt="space shooter contribution animation" src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/output/commit-invaders.svg" width="100%">
+</picture>
+</div>
+
 <div align="center">
 
 <br></br>
