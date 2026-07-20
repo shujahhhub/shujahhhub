@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujahhhub&label=Profile%20views&color=0e75b6&style=flat" alt="shujahhhub" /> </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="devops workspace animation" width="400" />
+  <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="pixel art coding room animation" width="100%" style="border-radius: 14px;" />
 </p>
 
 - 🔭 I'm currently working on strengthening my skills in **DevOps and Cloud based technologies**
