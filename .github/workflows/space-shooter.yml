@@ -1,18 +1,23 @@
-name: Generate Commit Invaders
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # daily at midnight UTC
+  workflow_dispatch:       # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
+  update-game:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Goblinlordx/commit-invaders@v1
+      - uses: actions/checkout@v6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user_name: shujahhhub
+          fetch-depth: 2   # required for this action to work correctly
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'space-shooter.gif'
+          strategy: 'random'
