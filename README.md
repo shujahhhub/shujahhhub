@@ -9,17 +9,17 @@
 
 - 🔭 I'm currently working on strengthening my skills in **DevOps and Cloud based technologies**
 
-- 🌱 I'm currently learning **Kubernetes, Terraform, and DevOps Pipelines**
+- 🌱 I'm currently learning **Kubernetes, Terraform, and DevOps Pipelines to deploy and scale apps like CalmSteps more reliably**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shujahhhub](https://github.com/shujahhhub)
 
-- 💬 Ask me about **DevOps, CI/CD, Docker, Kubernetes, AWS**
+- 💬 Ask me about **DevOps, CI/CD, Docker, Kubernetes, AWS, Flutter, and Firebase**
 
 - 📫 How to reach me **rehmanshujah57@gmail.com**
 
-- ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands-on lab points**
+- ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands on lab points**
 
-I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, CalmSteps an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
 
 <div align="center">
