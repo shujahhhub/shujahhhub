@@ -50,6 +50,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" width="48" height="48" alt="Dart"/><br><sub><b>Dart</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/><br><sub><b>Bash</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/><br><sub><b>PowerShell</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL"/><br><sub><b>SQL</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br><sub><b>HTML5</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br><sub><b>CSS3</b></sub></td>
@@ -61,8 +62,10 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <table>
 <tr>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="flutter_tts"/><br><sub><b>flutter_tts</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
+<td align="center" width="96"><img src="https://img.icons8.com/color/48/cloud-firestore.png" width="48" height="48" alt="Firestore"/><br><sub><b>Firestore</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA Nemotron"/><br><sub><b>NVIDIA Nemotron</b></sub></td>
 <td align="center" width="96"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" width="48" height="48" alt="OSRM"/><br><sub><b>OSRM</b></sub></td>
 </tr>
