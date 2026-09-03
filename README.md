@@ -95,7 +95,12 @@ I’m passionate about understanding how modern systems are built, deployed, and
 **Junior Developer (Intern)** — ZMDM IT Solutions
 *July 2026 – August 2026*
 
-I'm currently interning as a Junior Developer in the Software Development team at ZMDM IT Solutions, where I assist in the design, development, and maintenance of web and software applications under senior developer supervision. My work involves writing clean, well documented code, participating in team meetings and code reviews, and adapting to the tools and workflows used across the development team.
+Completed a 2 months internship in the Software Development team at ZMDM IT Solutions, where I assisted in the design, development, and maintenance of software applications under senior developer supervision. My work involved writing clean, well documented code, participating in team meetings and code reviews, and contributing to core project milestones, earning a formal **letter of recommendation** for proactive problem solving and dedication.
+
+**DevOps Intern** — DecodeLabs
+*August 2026 – August 2026*
+
+Completed a hands on DevOps internship focused on automating the modern Software Development Life Cycle (SDLC). My work involved implementing trunk based Git workflows, engineering automated CI/CD build and test pipelines with GitHub Actions, and containerizing applications using Docker to ensure consistent, reliable deployments.
 
 </div>
 
