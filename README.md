@@ -79,15 +79,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 </tr>
 </table>
 
-### 🗄️ Backend & Database
-
-<table>
-<tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firestore"/><br><sub><b>Firestore</b></sub></td>
-</tr>
-</table>
-
 ### 🤖 AI
 
 <table>
