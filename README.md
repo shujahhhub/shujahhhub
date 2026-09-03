@@ -90,6 +90,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/><br><sub><b>Cursor</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br><sub><b>Figma</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ntopng.png" width="48" height="48" alt="ntopng"/><br><sub><b>ntopng</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome"/><br><sub><b>Chrome</b></sub></td>
 </tr>
