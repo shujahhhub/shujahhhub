@@ -50,7 +50,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL"/><br><sub><b>SQL</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/><br><sub><b>Bash</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" width="48" height="48" alt="Dart"/><br><sub><b>Dart</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
 </tr>
 </table>
@@ -69,9 +68,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <table>
 <tr>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/materialdesign/757575" width="48" height="48" alt="Material 3"/><br><sub><b>Material 3</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="48" height="48" alt="BLoC"/><br><sub><b>BLoC</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="48" height="48" alt="go_router"/><br><sub><b>go_router</b></sub></td>
 </tr>
 </table>
 
@@ -80,10 +76,15 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <table>
 <tr>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
+</tr>
+</table>
+
+### 🗄️ Backend & Database
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firestore"/><br><sub><b>Firestore</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase Auth"/><br><sub><b>Firebase Auth</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Cloud Functions"/><br><sub><b>Cloud Functions</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase Storage"/><br><sub><b>Firebase Storage</b></sub></td>
 </tr>
 </table>
 
@@ -127,7 +128,9 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/><br><sub><b>Cursor</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" 
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase CLI"/><br><sub><b>Firebase CLI</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome"/><br><sub><b>Chrome</b></sub></td>
+</tr>
 </table>
 
 </div>
