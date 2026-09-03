@@ -62,7 +62,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <table>
 <tr>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="flutter_tts"/><br><sub><b>flutter_tts</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
 <td align="center" width="96"><img src="https://img.icons8.com/color/48/cloud-firestore.png" width="48" height="48" alt="Firestore"/><br><sub><b>Firestore</b></sub></td>
