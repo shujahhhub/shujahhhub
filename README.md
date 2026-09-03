@@ -119,7 +119,6 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/><br><sub><b>Cursor</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase CLI"/><br><sub><b>Firebase CLI</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome"/><br><sub><b>Chrome</b></sub></td>
 </tr>
 </table>
