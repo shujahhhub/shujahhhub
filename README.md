@@ -79,10 +79,27 @@ I’m passionate about understanding how modern systems are built, deployed, and
 
 <table>
 <tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase Auth"/><br><sub><b>Firebase Auth</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firestore"/><br><sub><b>Firestore</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase Auth"/><br><sub><b>Firebase Auth</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Cloud Functions"/><br><sub><b>Cloud Functions</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase Storage"/><br><sub><b>Firebase Storage</b></sub></td>
+</tr>
+</table>
+
+### 🤖 AI
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA Nemotron"/><br><sub><b>NVIDIA Nemotron</b></sub></td>
+</tr>
+</table>
+
+### 🗺️ Maps
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" width="48" height="48" alt="OSRM"/><br><sub><b>OSRM</b></sub></td>
 </tr>
 </table>
 
@@ -110,9 +127,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/><br><sub><b>Cursor</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase CLI"/><br><sub><b>Firebase CLI</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome"/><br><sub><b>Chrome</b></sub></td>
-</tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" 
 </table>
 
 </div>
