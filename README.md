@@ -91,6 +91,7 @@ I’m passionate about understanding how modern systems are built, deployed, and
 <td align="center" width="96"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor"/><br><sub><b>Cursor</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude"/><br><sub><b>Claude</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br><sub><b>Figma</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ntopng.png" width="48" height="48" alt="ntopng"/><br><sub><b>ntopng</b></sub></td>
