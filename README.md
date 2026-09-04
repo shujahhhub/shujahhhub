@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands on lab points**
 
-I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable.
 
 
 <div align="center">
