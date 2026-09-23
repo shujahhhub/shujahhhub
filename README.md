@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands on lab points**
 
-I'm passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I'm now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
 
 <div align="center">
@@ -118,30 +118,6 @@ Completed a hands on DevOps internship focused on automating the modern Software
 
 </div>
 
-
-## 🚀 Projects
-
-<div align="left">
-
-**CalmSteps — AI Powered Adaptive Learning App** *(Final Year Project)*
-
-An AI powered adaptive learning application for autistic children built with Flutter and Firebase, integrating NVIDIA Nemotron AI and OSRM based maps, covering full stack development from APIs to cloud services and real world delivery.
-
-**Automated CI/CD Calculator**
-
-Engineered a Golang application with an automated GitHub Actions pipeline for continuous integration, testing, and static code analysis.
-
-**Highly Available Kubernetes Web App**
-
-Architected a containerized Python web application deployed to a Kubernetes cluster using Terraform, featuring automated load balancing and Horizontal Pod Autoscaling (HPA) under heavy traffic.
-
-**Microservices Video Converter Platform**
-
-Designed a cloud native microservices architecture integrating Continuous Integration, Continuous Delivery (Docker Hub), and Infrastructure as Code deployment.
-
-</div>
-
-
 ## 🔥 GitHub Stats 🔥
 
 <p align="center">
@@ -168,5 +144,7 @@ Designed a cloud native microservices architecture integrating Continuous Integr
 *Shujah Ur Rehman · Lahore, Pakistan · DevOps & Cloud Engineer*
 
 </div>
-type=waving&color=0:0d1520,60:1a3a6b,100:0d1520&height=130&section=footer&text=let%27s%20build%20something%20great&fontSize=14&fontColor=7a9bbf&fontAlignY=65" width="100%"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1520,60:1a3a6b,100:0d1520&height=130&section=footer&text=let%27s%20build%20something%20great&fontSize=14&fontColor=7a9bbf&fontAlignY=65" width="100%"/>
 </div>
