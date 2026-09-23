@@ -96,14 +96,7 @@ I'm passionate about understanding how modern systems are built, deployed, and s
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br><sub><b>Figma</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ntopng.png" width="48" height="48" alt="ntopng"/><br><sub><b>ntopng</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome"/><br><sub><b>Chrome</b></sub></td>
-</tr>
-</table>
-
-### 🌐 Deployed Products
-
-<table>
-<tr>
-<td align="center" width="120"><a href="https://snapdeploy.dev/" target="_blank"><img src="https://img.shields.io/badge/SnapDeploy-Deploy%20Docker%20Apps-00b4d8?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="SnapDeploy"/></a><br><sub><b>SnapDeploy</b></sub></td>
+<td align="center" width="96"><a href="https://snapdeploy.dev/" target="_blank"><img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/snapdeploy-logo.png" width="48" height="48" alt="SnapDeploy"/></a><br><sub><b>SnapDeploy</b></sub></td>
 </tr>
 </table>
 
