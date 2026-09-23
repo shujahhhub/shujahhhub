@@ -103,7 +103,7 @@ I'm passionate about understanding how modern systems are built, deployed, and s
 
 <table>
 <tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/snapdeploy/7C3AED" width="48" height="48" alt="SnapDeploy"/><br><sub><b>SnapDeploy</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/snapdeploy-logo.png" width="48" height="48" alt="SnapDeploy"/><br><sub><b>SnapDeploy</b></sub></td>
 </tr>
 </table>
 
