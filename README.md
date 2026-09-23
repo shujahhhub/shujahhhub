@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Diamond League member on Google Cloud Skills Boost with 16,400+ hands on lab points**
 
-I’m passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I’m now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
+I'm passionate about understanding how modern systems are built, deployed, and scaled. I learn by building, experimenting with tools, and improving through practical work. My final year project, **CalmSteps** an AI powered adaptive learning app for autistic children which pushed me deeper into full stack development, from Flutter and Firebase to APIs, cloud services, and shipping a real product. I'm now strengthening my skills in DevOps and cloud technologies, aiming to gain real world experience and create efficient, reliable solutions.
 
 
 <div align="center">
@@ -99,6 +99,14 @@ I’m passionate about understanding how modern systems are built, deployed, and
 </tr>
 </table>
 
+### 🌐 Deployed Products
+
+<table>
+<tr>
+<td align="center" width="120"><a href="https://snapdeploy.dev/" target="_blank"><img src="https://img.shields.io/badge/SnapDeploy-Deploy%20Docker%20Apps-00b4d8?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="SnapDeploy"/></a><br><sub><b>SnapDeploy</b></sub></td>
+</tr>
+</table>
+
 </div>
 
 
@@ -117,6 +125,7 @@ Completed a 2 months internship in the Software Development team at ZMDM IT Solu
 Completed a hands on DevOps internship focused on automating the modern Software Development Life Cycle (SDLC). My work involved implementing trunk based Git workflows, engineering automated CI/CD build and test pipelines with GitHub Actions, and containerizing applications using Docker to ensure consistent, reliable deployments.
 
 </div>
+
 
 ## 🔥 GitHub Stats 🔥
 
