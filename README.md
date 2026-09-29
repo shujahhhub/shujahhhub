@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shujah</h1>
-<h3 align="center">A passionate DevOps & Cloud Engineer</h3>
+<h3 align="center">A passionate Software Developer | DevOps & Cloud Engineer</h3>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshujahhhub&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shujahhhub&label=Profile%20views&color=0e75b6&style=flat" alt="shujahhhub" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shujahhhub/shujahhhub/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="pixel art coding room animation" width="100%" style="border-radius: 14px;" />
